@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OneMessageChat</string>
+    <string name="message">Message</string>
+    <string name="ok">OK!</string>
+    <string name="add_message">Add message</string>
+    <string name="identificador">Identificador</string>
 </resources>
